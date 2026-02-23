@@ -1,14 +1,11 @@
 # Music Concierge Tech Checklist
 
-A Windows-based UI application for technical checklist management for Music Concierge systems.
+A Windows-based UI application for technical checklists for Music Concierge systems.
 
 ## Features
 
-- Interactive checklist for technical procedures
+- Interactive checklist for technical checklists
 - Windows-native interface using CustomTkinter
-- Persistent checklist state
-- Category-based organization
-- Progress tracking
 
 ## Requirements
 
@@ -16,17 +13,6 @@ A Windows-based UI application for technical checklist management for Music Conc
 - CustomTkinter
 - Windows OS
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-python main.py
-```
-
 ## Usage
 
-Launch the application and use the checklist interface to track technical procedures and maintenance tasks.
-
-## License
-
-MIT License
+Launch the application and use the checklist interface to check technical and network requirements.
